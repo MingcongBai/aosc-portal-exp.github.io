@@ -2,7 +2,7 @@
 permalink: /blog/:title
 
 # My variables
-name: AOSC > Portal
+name: / Portal
 description: AOSC Portal - Home to AOSC OS
 google_verification: null
 
