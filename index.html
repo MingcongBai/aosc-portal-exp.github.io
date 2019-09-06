@@ -2,11 +2,11 @@
 layout: default
 ---
 
-<div class="header">
-    <h1 align="center">{{ site.name }}</h1>
+<div class="header" align="center">
+    <h1>{{ site.name }}</h1>
 </div>
-<div class="header">
-    <ul align="center">
+<div class="header" align="center">
+    <ul>
         {% for item in site.data.navigation %}
         <li>
             <a href="{{ item.url }}">{{ item.title }}</a>
