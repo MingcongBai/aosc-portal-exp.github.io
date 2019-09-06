@@ -1,11 +1,29 @@
-- title: About
+- title: News
   url: /me
 
-- title: Resources
-  url: /resources
+- title: Projects
+  url: /projects
 
-- title: GitHub
-  url: https://github.com/MingcongBai
+- title: People
+  url: /people
 
-- title: Friends
-  url: /friends
+- title: Wiki
+  url: https://wiki.aosc.io
+
+- title: About
+  url: /about
+
+- title: Downloads
+  url: /downloads
+
+- title: Repositories
+  url: /repo
+
+- title: Git
+  url: https://github.com/AOSC-Dev/
+
+- title: Mail
+  url: https://hermes.aosc.io/
+
+- title: Pastebin
+  url: https://pastebin.aosc.io/
