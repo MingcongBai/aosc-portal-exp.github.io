@@ -1,28 +1,28 @@
-- title: News
+- title: News |
   url: /me
 
-- title: Projects
+- title: Projects |
   url: /projects
 
-- title: People
+- title: People |
   url: /people
 
-- title: Wiki
+- title: Wiki |
   url: https://wiki.aosc.io
 
-- title: About
+- title: About |
   url: /about
 
-- title: Downloads
+- title: Downloads |
   url: /downloads
 
-- title: Repositories
+- title: Repositories |
   url: /repo
 
-- title: Git
+- title: Git |
   url: https://github.com/AOSC-Dev/
 
-- title: Mail
+- title: Mail |
   url: https://hermes.aosc.io/
 
 - title: Pastebin
